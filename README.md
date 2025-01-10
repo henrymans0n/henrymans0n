@@ -41,6 +41,6 @@
 
 ###
 
-<p align="left">I am a computer science student, self taught and still learning!<br><br>Interested in:<br><br>- Cyber security<br>- Computer science<br>- Programming in all it's forms, low and high levels!<br>-Math</p>
+<p align="left">I am a computer science student, self taught and still learning!<br><br>Interested in:<br><br>- Cyber security<br>- Computer science<br>- Programming in all it's forms, low and high levels!<br>- Math</p>
 
 ###

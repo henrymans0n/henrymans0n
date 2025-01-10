@@ -37,15 +37,16 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/henrymans0n/henrymans0n/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/henrymans0n/henrymans0n/output/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/henrymans0n/henrymans0n/output/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/henrymans0n/henrymans0n/output/output/github-snake.svg" />
+</picture>
 
 ###
 
 <p align="left">I am a computer science student, self taught and still learning!<br><br>Interested in:<br><br>- Cyber security<br>- Computer science<br>- Programming in all it's forms, low and high levels!<br>- Math</p>
 
 ###
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/henrymans0n/henrymans0n/output/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/henrymans0n/henrymans0n/output/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/henrymans0n/henrymans0n/output/output/github-snake.svg" />
-</picture>
+
+<img src="https://raw.githubusercontent.com/henrymans0n/henrymans0n/output/snake.svg" alt="Snake animation" />
